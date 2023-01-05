@@ -8,6 +8,7 @@ public class CampApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CampApplication.class, args);
+		System.out.println("M");
 	}
 
 }
