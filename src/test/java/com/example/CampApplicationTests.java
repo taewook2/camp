@@ -8,6 +8,7 @@ class CampApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String test;
 	}
 
 }
